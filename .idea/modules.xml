@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TS&amp;React.iml" filepath="$PROJECT_DIR$/.idea/TS&amp;React.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tsreact/.idea/tsreact.iml" filepath="$PROJECT_DIR$/../tsreact/.idea/tsreact.iml" />
     </modules>
   </component>
 </project>
